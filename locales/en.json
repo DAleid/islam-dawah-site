@@ -1,0 +1,115 @@
+{
+  "site": {
+    "title": "Noor Al-Islam",
+    "description": "Discover Islam - The Religion of Peace and Mercy"
+  },
+  "nav": {
+    "home": "Home",
+    "whatIsIslam": "What is Islam",
+    "pillars": "Five Pillars",
+    "faq": "FAQ"
+  },
+  "home": {
+    "heroVerse": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "heroVerseTranslation": "In the name of Allah, the Most Gracious, the Most Merciful",
+    "heroTitle": "Welcome to Your Journey of Discovering Islam",
+    "heroSubtitle": "Islam is a religion of peace, mercy, and justice. Explore its fundamentals and principles on this concise guide.",
+    "exploreButton": "Start Your Journey",
+    "cardIslam": "What is Islam?",
+    "cardIslamDesc": "Learn about the meaning of Islam and its universal message for all humanity",
+    "cardPillars": "The Five Pillars of Islam",
+    "cardPillarsDesc": "The five foundational pillars upon which Islam is built",
+    "cardFaq": "Frequently Asked Questions",
+    "cardFaqDesc": "Answers to the most common questions about Islam",
+    "quote": "وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ",
+    "quoteTranslation": "And We have not sent you except as a mercy to all the worlds - Quran 21:107",
+    "quoteSource": "Quran 21:107"
+  },
+  "whatIsIslam": {
+    "title": "What is Islam?",
+    "intro": "Islam is the religion of monotheism, meaning submission to the will of the One God. The word 'Islam' is derived from the Arabic root 'salm' which means peace and submission.",
+    "meaningTitle": "The Meaning of Islam",
+    "meaningText": "The word 'Islam' means voluntary submission and surrender to God. A 'Muslim' is one who submits to God and follows His teachings. Islam is not a new religion; it is the same message brought by all prophets since Adam (peace be upon him).",
+    "godTitle": "Belief in One God",
+    "godText": "The core of Islam is the belief in One God (Allah) who has no partners. Allah is the Creator, the Provider, and the Sustainer of this magnificent universe. Muslims believe that God is Merciful, Just, and close to His servants.",
+    "godVerse": "Say: He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born. Nor is there to Him any equivalent.",
+    "godVerseSource": "Surah Al-Ikhlas (Chapter 112)",
+    "prophetTitle": "Prophet Muhammad ﷺ",
+    "prophetText": "Muhammad ﷺ is the last prophet and messenger sent by God to guide humanity. He was born in Mecca in 570 CE. He brought the Holy Quran and was an exemplary model of good character, mercy, and justice.",
+    "quranTitle": "The Holy Quran",
+    "quranText": "The Holy Quran is the word of God revealed to Prophet Muhammad ﷺ through the Angel Gabriel. It is the holy book of Muslims and the primary source of Islamic law. Not a single letter has changed in over 1,400 years.",
+    "valuesTitle": "Values of Islam",
+    "values": [
+      "Mercy and compassion toward all creation",
+      "Justice and equality among people",
+      "Seeking knowledge and education",
+      "Honoring parents and maintaining family ties",
+      "Truthfulness and trustworthiness",
+      "Helping those in need and the poor"
+    ]
+  },
+  "pillars": {
+    "title": "The Five Pillars of Islam",
+    "subtitle": "The five foundational pillars upon which Islam is built",
+    "shahada": {
+      "title": "Shahada (Declaration of Faith)",
+      "arabic": "أشهد أن لا إله إلا الله وأشهد أن محمداً رسول الله",
+      "description": "The declaration that there is no god but Allah and that Muhammad is His messenger. It is the first and most important pillar of Islam, and it is the key to entering Islam."
+    },
+    "salah": {
+      "title": "Salah (Prayer)",
+      "description": "Performing five daily prayers at prescribed times. Prayer is the direct connection between a person and their Lord. It is the pillar of the religion and the first thing a Muslim is accountable for."
+    },
+    "zakat": {
+      "title": "Zakat (Charity)",
+      "description": "Giving a specific portion of wealth (2.5%) annually to the poor and needy. Zakat purifies wealth and strengthens social solidarity and compassion among community members."
+    },
+    "sawm": {
+      "title": "Sawm (Fasting)",
+      "description": "Fasting during the holy month of Ramadan from dawn until sunset. Fasting teaches patience, mindfulness of God, empathy for the poor, and strengthens willpower."
+    },
+    "hajj": {
+      "title": "Hajj (Pilgrimage)",
+      "description": "Performing the pilgrimage to Mecca once in a lifetime for those who are able. Hajj brings Muslims from all over the world together in a magnificent display of equality and unity."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions About Islam",
+    "subtitle": "Clear and concise answers to the most common questions",
+    "questions": [
+      {
+        "q": "Who is the God of Muslims?",
+        "a": "Muslims believe in the One God (Allah), the same God worshipped by Jews and Christians. The word 'Allah' is simply the Arabic word for God, used by Arab Christians and Jews as well."
+      },
+      {
+        "q": "Is Islam a religion of terrorism?",
+        "a": "Absolutely not. Islam means peace and submission to God. Islam forbids killing innocent people and aggression. The Quran states: 'Whoever kills a soul... it is as if he had slain all mankind.' (5:32). Terrorism in all its forms is rejected in Islam."
+      },
+      {
+        "q": "What does Islam say about women?",
+        "a": "Islam honored women and granted them full rights. Women have the right to education, work, property, and inheritance. Prophet Muhammad ﷺ said: 'Women are the twin halves of men.' Women in Islam are honored as mothers, wives, daughters, and sisters."
+      },
+      {
+        "q": "What is the difference between Islam, Christianity, and Judaism?",
+        "a": "All three religions believe in One God and share many moral values. The main difference is that Islam believes God is absolutely One with no partners, and that Muhammad ﷺ is the last prophet. Muslims respect all prophets, including Jesus and Moses (peace be upon them)."
+      },
+      {
+        "q": "How can I become a Muslim?",
+        "a": "To become a Muslim, you simply need to sincerely declare the Shahada: 'I bear witness that there is no god but Allah, and Muhammad is His messenger.' No priest or special ceremony is needed. Once you make this declaration, you are a Muslim, and you can gradually learn about prayer and worship."
+      },
+      {
+        "q": "What is the Holy Quran?",
+        "a": "The Quran is the word of God revealed to Prophet Muhammad ﷺ through the Angel Gabriel over 23 years. It is the primary source of Islamic law. It contains 114 chapters covering faith, worship, morality, stories of prophets, and guidance for life."
+      },
+      {
+        "q": "Do Muslims believe in Jesus?",
+        "a": "Yes! Muslims love and revere Jesus (peace be upon him) and consider him one of the greatest prophets. They believe in his miracles and his miraculous birth from the Virgin Mary. The difference is that Muslims consider him a prophet and messenger of God, not divine."
+      }
+    ]
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "message": "O Allah, make this work sincerely for Your noble sake",
+    "source": "Sources: The Holy Quran and the Prophetic Sunnah"
+  }
+}
